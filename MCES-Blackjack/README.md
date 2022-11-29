@@ -2,7 +2,7 @@
 
 ======================================================================================================
 Description:
-This program uses MCES ALgorithm to solve the Blackjack problem.
+This program uses MCES Algorithm to solve the Blackjack problem.
 Specifically, several restrictions are made.
 1. Ace only counted as 11 (not 1, not usable).
 2. The dealer only hits when dealer's sum is less than or equal to 16.
