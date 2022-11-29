@@ -1,7 +1,4 @@
-Monte Carlo ES (Exploring Starts) Algorithm for Blackjack
-
-Name: Jingyi Zhao
-NetID: jz3676
+# Monte Carlo ES (Exploring Starts) Algorithm for Blackjack
 
 ======================================================================================================
 Description:
